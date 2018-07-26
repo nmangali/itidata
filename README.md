@@ -2,4 +2,4 @@
 
 Hi Azhar Sha,
 
-Welcome to GitHub Hi
+Welcome to GitHub
